@@ -6623,7 +6623,7 @@
 				line-height: 1em;
 				font-size: 3rem;
 				position: absolute;
-				text-align: justify;
+				text-align: center;
 			}
 
 		.gallery.style2:hover > .forward, .gallery.style2:hover > .backward {
